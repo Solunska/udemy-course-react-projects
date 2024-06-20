@@ -66,14 +66,14 @@ Welcome to the summary documentation of the React course projects. In this repos
 
 16. **Authentication**
     - **Overview:** 
-    - **Folder:** [`Authentication`](./15.%20Authentication)
+    - **Folder:** [`Authentication`](./16.%20Authentication)
 
 17. **TanStack Query**
     - **Overview:** 
-    - **Folder:** [`TanStack Query`](./15.%20TanStack%20Query)
+    - **Folder:** [`TanStack Query`](./17.%20TanStack%20Query)
 
 18. **First NextJS Project**
     - **Overview:** 
-    - **Folder:** [`First NextJS Project`](./15.%20First%20NextJS%20Project)
+    - **Folder:** [`First NextJS Project`](./18.%20First%20NextJS%20Project)
 
 Feel free to explore each project folder for detailed documentation 🚀👩‍💻👨‍💻
