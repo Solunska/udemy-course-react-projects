@@ -76,4 +76,8 @@ Welcome to the summary documentation of the React course projects. In this repos
     - **Overview:** 
     - **Folder:** [`First NextJS Project`](./18.%20First%20NextJS%20Project)
 
+19. **Animating React Apps**
+    - **Overview:** 
+    - **Folder:** [`Animating React Apps`](./18.%20**Animating%20React%20Apps)
+
 Feel free to explore each project folder for detailed documentation 🚀👩‍💻👨‍💻
