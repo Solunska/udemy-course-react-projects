@@ -85,7 +85,7 @@ Welcome to the summary documentation of the React course projects. In this repos
     
 21. **React + TypeScript**
     - **Overview:** 
-    - **Folder:** [`React + TypeScript`](./19.%20React%20%2B%20TypeScript)
+    - **Folder:** [`React + TypeScript`](./21.%20React%20%2B%20TypeScript)
       
 ## Course Certificate
 I have successfully completed the React course offered by Udemy. This certificate acknowledges my achievement and understanding of fundamental and advanced concepts in React development, equipping me with practical skills to build interactive and scalable web applications.
