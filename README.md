@@ -6,8 +6,7 @@ Welcome to the summary documentation of the React course projects. In this repos
 
 1. **Investment Calculator**
    - **Overview:** A project introducing fundamental React concepts such as components, props, state management, and conditional rendering through an investment calculator application.
-   - **Folder:** [`React Basics`](./01.%20React%20Basics)
-
+   - **Folder:**
 2. **Simple Login Form**
    - **Overview:** A project focused on styling React components using various approaches and libraries, including vanilla CSS, inline styles, and Tailwind CSS.
    - **Folder:** [`Styling`](./02.%20Styling)
@@ -86,7 +85,7 @@ Welcome to the summary documentation of the React course projects. In this repos
     
 21. **React + TypeScript**
     - **Overview:** 
-    - **Folder:** [`React + TypeScript`](./19.%20React%20+%20TypeScript)
+    - **Folder:** [`React + TypeScript`](./19.%20React%20%2B%20TypeScript)
       
 ## Course Certificate
 I have successfully completed the React course offered by Udemy. This certificate acknowledges my achievement and understanding of fundamental and advanced concepts in React development, equipping me with practical skills to build interactive and scalable web applications.
