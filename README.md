@@ -78,6 +78,6 @@ Welcome to the summary documentation of the React course projects. In this repos
 
 19. **Animating React Apps**
     - **Overview:** 
-    - **Folder:** [`Animating React Apps`](./18.%20**Animating%20React%20Apps)
+    - **Folder:** [`Animating React Apps`](./18.%20Animating%20React%20Apps)
 
 Feel free to explore each project folder for detailed documentation 🚀👩‍💻👨‍💻
