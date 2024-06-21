@@ -80,6 +80,14 @@ Welcome to the summary documentation of the React course projects. In this repos
     - **Overview:** 
     - **Folder:** [`Animating React Apps`](./19.%20Animating%20React%20Apps)
 
+20. **React Patterns and Best Practices**
+    - **Overview:** 
+    - **Folder:** [`React Patterns and Best Practices`](./20.%20React%20Patterns%20and%20Best%20Practices)
+    
+21. **React + TypeScript**
+    - **Overview:** 
+    - **Folder:** [`React + TypeScript`](./19.%20React%20+%20TypeScript)
+      
 ## Course Certificate
 I have successfully completed the React course offered by Udemy. This certificate acknowledges my achievement and understanding of fundamental and advanced concepts in React development, equipping me with practical skills to build interactive and scalable web applications.
 
