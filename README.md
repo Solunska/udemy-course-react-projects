@@ -80,4 +80,9 @@ Welcome to the summary documentation of the React course projects. In this repos
     - **Overview:** 
     - **Folder:** [`Animating React Apps`](./19.%20Animating%20React%20Apps)
 
+## Course Certificate
+I have successfully completed the React course offered by Udemy. This certificate acknowledges my achievement and understanding of fundamental and advanced concepts in React development, equipping me with practical skills to build interactive and scalable web applications.
+
+![certificate](https://github.com/Solunska/udemy-course-react-projects/assets/100601635/bf3bae49-eee6-4b7b-ba2e-d219883cd28a)
+
 Feel free to explore each project folder for detailed documentation 🚀👩‍💻👨‍💻
