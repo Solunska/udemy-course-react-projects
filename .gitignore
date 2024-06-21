@@ -44,3 +44,7 @@ yarn-error.log*
 
 # TypeScript
 *.tsbuildinfo
+
+# Projects
+Testing React Apps
+TypeScript Basics
